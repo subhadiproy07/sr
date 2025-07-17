@@ -1,1 +1,1 @@
-new world
+print(hello world);
